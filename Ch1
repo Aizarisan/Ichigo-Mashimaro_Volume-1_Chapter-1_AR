@@ -1,15 +1,15 @@
 {
-  "title": "<Ichigo Mashimaro>",
-  "description": "<Cute girls doing cute things in cute ways.>",
-  "artist": "<Barasui>",
-  "author": "<Barasui>",
-  "cover": "<i.imgur.com/4ZcMNvO.png>",
+  "title": "Ichigo Mashimaro",
+  "description": "Cute girls doing cute things in cute ways.",
+  "artist": "Barasui",
+  "author": "Barasui",
+  "cover": "https://i.imgur.com/4ZcMNvO.png",
   "chapters": {
-    "<1>": {
-      "title": "<trip>",
-      "volume": "<1>",
+    "1": {
+      "title": "trip",
+      "volume": "1",
       "groups": {
-        "<ِAizari>": "/proxy/api/imgur/chapter/ichigo-mashimaro-volume-1-chapter-1-ar-Q2MtEcQ/"
+        "Aizari": "/proxy/api/imgur/chapter/ichigo-mashimaro-volume-1-chapter-1-ar-Q2MtEcQ/"
       },
       "last_updated": "1616368746"
     }
