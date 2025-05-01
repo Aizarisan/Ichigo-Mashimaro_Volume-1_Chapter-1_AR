@@ -11,7 +11,7 @@
       "groups": {
         "Aizari": "/proxy/api/imgur/chapter/Q2MtEcQ/"
       },
-      "last_updated": "1745906066"
+      "last_updated": "1746131221"
     },
  "2": {
       "title": "نفايات بشرية",
@@ -19,7 +19,7 @@
       "groups": {
         "ِAizari": "/proxy/api/imgur/chapter/rpIqqZo/"
       },
-      "last_updated": "1745906066"
+      "last_updated": "1746131221"
     },
  "3": {
       "title": "المبيت",
@@ -27,7 +27,7 @@
       "groups": {
         "Aizari": "/proxy/api/imgur/chapter/Yyz9xcN/"
       },
-      "last_updated": "1745906066"
+      "last_updated": "1746131221"
     },
  "3": {
       "title": "المبيت",
@@ -35,7 +35,15 @@
       "groups": {
         "Aizari": "/proxy/api/imgur/chapter/Yyz9xcN/"
       },
-      "last_updated": "1745906066"
+      "last_updated": "1746131221"
+    },
+ "4": {
+      "title": "لا تغقي!",
+      "volume": "1",
+      "groups": {
+        "Aizari": "/proxy/api/imgur/chapter/DwAzo0v/"
+      },
+      "last_updated": "1746131221"
     }
   }
 }
