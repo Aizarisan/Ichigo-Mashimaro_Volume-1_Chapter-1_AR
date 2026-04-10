@@ -9,17 +9,17 @@
       "title": "سفرة الحسرة إلى إزو",
       "volume": "1",
       "groups": {
-        "Aizari": "/proxy/api/imgur/chapter/YRwGdIT/"
+        "Mizari": "/proxy/api/imgur/chapter/OAoVaXR/"
       },
-      "last_updated": "1746888972"
+      "last_updated": "1775807387"
     },
  "2": {
       "title": "نفايات بشرية",
       "volume": "1",
       "groups": {
-        "ِAizari": "/proxy/api/imgur/chapter/rpIqqZo/"
+        "ِAizari": "/proxy/api/imgur/chapter/uRvKm9Y/"
       },
-      "last_updated": "1746888972"
+      "last_updated": "1775807387"
     },
  "3": {
       "title": "المبيت",
@@ -27,47 +27,71 @@
       "groups": {
         "Aizari": "/proxy/api/imgur/chapter/Yyz9xcN/"
       },
-      "last_updated": "1746888972"
+      "last_updated": "1775807387"
     },
  "3": {
       "title": "المبيت",
       "volume": "1",
       "groups": {
-        "Aizari": "/proxy/api/imgur/chapter/Yyz9xcN/"
+        "Aizari": "/proxy/api/imgur/chapter/5ubFCJf/"
       },
-      "last_updated": "1746888972"
+      "last_updated": "1775807387"
     },
  "4": {
       "title": "لا تغفي!",
       "volume": "1",
       "groups": {
-        "Aizari": "/proxy/api/imgur/chapter/DwAzo0v/"
+        "Aizari": "/proxy/api/imgur/chapter/z3hhWYN/"
       },
-      "last_updated": "1746888972"
+      "last_updated": "1775807387"
     },
  "5": {
       "title": "الإقلاع عن التدخين",
       "volume": "1",
       "groups": {
-        "Aizari": "/proxy/api/imgur/chapter/xgwvrTd/"
+        "Aizari": "/proxy/api/imgur/chapter/qbav3KL/"
       },
-      "last_updated": "1746888972"
+      "last_updated": "1775807387"
     },
 "6": {
       "title": "اللعب في الخارج",
       "volume": "1",
       "groups": {
-        "Aizari": "/proxy/api/imgur/chapter/els8Hjx/"
+        "Aizari": "/proxy/api/imgur/chapter/559IfAq/"
       },
-      "last_updated": "1748009979"
+      "last_updated": "1775807387"
     },
 "7": {
       "title": "لا تستيقظي!",
       "volume": "1",
       "groups": {
-        "Aizari": "/proxy/api/imgur/chapter/mHITZCk/"
+        "Aizari": "/proxy/api/imgur/chapter/n0102u5/"
       },
-      "last_updated": "1748120473"
+      "last_updated": "1775807387"
+    },
+"8": {
+      "title": "نياا",
+      "volume": "1",
+      "groups": {
+        "Aizari": "/proxy/api/imgur/chapter/n0102u5/"
+      },
+      "last_updated": "1775807387"
+    },
+"9": {
+      "title": "بحث مستقل",
+      "volume": "1",
+      "groups": {
+        "Aizari": "/proxy/api/imgur/chapter/n0102u5/"
+      },
+      "last_updated": "1775807387"
+    },
+"10": {
+      "title": "ما رأيكن بالذهاب إلى البحر؟",
+      "volume": "1",
+      "groups": {
+        "Aizari": "/proxy/api/imgur/chapter/n0102u5/"
+      },
+      "last_updated": "1775807387"
     }
   }
 }
