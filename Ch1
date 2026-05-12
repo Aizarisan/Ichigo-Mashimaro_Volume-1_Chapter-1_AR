@@ -5,85 +5,85 @@
   "author": "Barasui",
   "cover": "https://i.imgur.com/yQUjp07.png",
   "chapters": {
- "1": {
+    "1": {
       "title": "سفرة الحسرة إلى إزو",
       "volume": "1",
       "groups": {
         "Mizari": "/proxy/api/imgur/chapter/1LMRCXb/"
       },
-      "last_updated": "1775807387"
+      "last_updated": 1775807387
     },
- "2": {
+    "2": {
       "title": "نفايات بشرية",
       "volume": "1",
       "groups": {
-        "ِMizari": "/proxy/api/imgur/chapter/lfNRTOK/"
+        "Mizari": "/proxy/api/imgur/chapter/lfNRTOK/"
       },
-      "last_updated": "1775807387"
+      "last_updated": 1775807387
     },
- "3": {
+    "3": {
       "title": "المبيت",
       "volume": "1",
       "groups": {
         "Mizari": "/proxy/api/imgur/chapter/fYZ2aBC/"
       },
-      "last_updated": "1775807387"
+      "last_updated": 1775807387
     },
- "4": {
+    "4": {
       "title": "لا تغفي!",
       "volume": "1",
       "groups": {
         "Mizari": "/proxy/api/imgur/chapter/XjfPuHB/"
       },
-      "last_updated": "1775807387"
+      "last_updated": 1775807387
     },
- "5": {
+    "5": {
       "title": "الإقلاع عن التدخين",
       "volume": "1",
       "groups": {
         "Mizari": "/proxy/api/imgur/chapter/11lbXom/"
       },
-      "last_updated": "1775807387"
+      "last_updated": 1775807387
     },
-"6": {
+    "6": {
       "title": "اللعب في الخارج",
       "volume": "1",
       "groups": {
         "Mizari": "/proxy/api/imgur/chapter/lKdQil3/"
       },
-      "last_updated": "1775807387"
+      "last_updated": 1775807387
     },
-"7": {
+    "7": {
       "title": "لا تستيقظي!",
       "volume": "1",
       "groups": {
         "Mizari": "/proxy/api/imgur/chapter/n0102u5/"
       },
-      "last_updated": "1775807387"
+      "last_updated": 1775807387
     },
-"8": {
+    "8": {
       "title": "نياا",
       "volume": "1",
       "groups": {
         "Mizari": "/proxy/api/imgur/chapter/G7unvqJ/"
       },
-      "last_updated": "1775807387"
+      "last_updated": 1775807387
     },
-"9": {
+    "9": {
       "title": "بحث مستقل",
       "volume": "1",
       "groups": {
         "Mizari": "/proxy/api/imgur/chapter/CqpQVRC/"
       },
-      "last_updated": "1775807387"
+      "last_updated": 1775807387
     },
-"10": {
+    "10": {
       "title": "ما رأيكن بالذهاب إلى البحر؟",
       "volume": "1",
       "groups": {
         "Mizari": "/proxy/api/imgur/chapter/y0to1TL/"
       },
-      "last_updated": "1775807387"
+      "last_updated": 1775807387
     }
   }
 }
